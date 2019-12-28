@@ -7,5 +7,6 @@
 文章不求鞭辟入里，但尽可能保证有趣不枯燥。如果恰好你也喜欢这些文章，请务必 star 它！
 
 > 作为 Android 开发者的你肯定已经拥有了 Android Studio，但我还是建议你下载一个 JetBains CE 或其他版本，这样你可以方便的创建一个 Kotlin 文件并运行它。大部分例子中，我们只需要 kotlin 的环境就可以了。
+> 
 > [https://play.kotlinlang.org](https://play.kotlinlang.org) 是一个在线 Kotlin playground，使用它可以方便快速的运行一小段代码。
 
